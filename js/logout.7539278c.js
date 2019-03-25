@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["logout"],{c100:function(t,o,e){"use strict";e.r(o);var n=function(){var t=this,o=t.$createElement,e=t._self._c||o;return e("div",[t._v(" ")])},u=[],l=e("be94"),c=e("2f62"),i={name:"Logout",methods:Object(l["a"])({},Object(c["d"])(["logout"])),created:function(){this.logout(),this.$router.push("/login")}},s=i,r=e("2877"),a=Object(r["a"])(s,n,u,!1,null,null,null);a.options.__file="Logout.vue";o["default"]=a.exports}}]);
+//# sourceMappingURL=logout.7539278c.js.map
